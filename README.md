@@ -1,2 +1,0 @@
-# NGN
-my scripting
